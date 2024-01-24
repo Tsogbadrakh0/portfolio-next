@@ -5,7 +5,7 @@ export const Footer = () => {
     <div className="flex px-[80px] py-[24px] justify-center items-center self-stretch bg-[#F9FAFB]">
       <div className="flex px-[32px] py-0 justify-center items-center self-stretch">
         <div className="flex px-[32px] py-0 justify-center items-center self-stretch gap-2">
-          <img src="/icons/icon-copyright.jpg" alt="" />
+          <img src="/icons/icon-c.svg" alt="" />
           <p className="text-[#4B5563] font-sans text-[14px] not-italic font-normal leading-5">
             2023 |{" "}
             <span className="text-[#4B5563] font-sans text-[14px] not-italic font-normal leading-5 underline">

@@ -23,24 +23,24 @@ export const ContactMe = () => {
           <div className="flex flex-col justify-center items-center gap-4">
             <div className="flex justify-center items-center gap-5">
               <div>
-                <img src="/icons/icon-message.jpg" alt="" />
+                <img src="/icons/icon-message.svg" alt="" />
               </div>
               <span className="text-[#111827] text-center font-sans text-[36px] not-italic font-semibold leading-10 tracking-[-0.72px]">
                 reachsagarshah@gmail.com
               </span>
               <div>
-                <img src="/icons/icon-copy.jpg" alt="" />
+                <img src="/icons/icon-copy.svg" alt="" />
               </div>
             </div>
             <div className="flex justify-center items-center gap-5">
               <div>
-                <img src="/icons/icon-phone.jpg" alt="" />
+                <img src="/icons/icon-phone.svg" alt="" />
               </div>
               <span className="text-[#111827] text-center font-sans text-[36px] not-italic font-semibold leading-10 tracking-[-0.72px]">
                 +91 8980500565
               </span>
               <div>
-                <img src="/icons/icon-copy.jpg" alt="" />
+                <img src="/icons/icon-copy.svg" alt="" />
               </div>
             </div>
             <div></div>
@@ -52,9 +52,9 @@ export const ContactMe = () => {
               You may also find me on these platforms!
             </p>
             <div className="flex justify-center items-center gap-4 self-stretch">
-              <img src="/icons/icon-cat.jpg" alt="" />
-              <img src="/icons/icon-twitter.jpg" alt="" />
-              <img src="/icons/icon-fig.jpg" alt="" />
+              <img src="/icons/icon-github.svg" alt="" />
+              <img src="/icons/icon-twitter.svg" alt="" />
+              <img src="/icons/icon-fig.svg" alt="" />
             </div>
           </div>
         </div>
